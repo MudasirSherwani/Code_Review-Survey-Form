@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  margin: 20px 30px 4px 5px;
+  background-color: blue;
+  color: white;
+}
+
+#fruit4{
+  font-size: 25px; 
+  
+}
+
+#name-label {
+  font-size: 20px; 
+}
+
+#email-label {
+  font-size: 20px; 
+}
+
+#number-label {
+  font-size: 20px;
+}
+
+#dropdown{
+  font-size: 20px;
+}
+
+#orange {
+  font-size: 20px;
+}
+
+#p-2 {
+  font-size: 40px;
+}
+
+body{
+  margin-left: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+#survey-form{
+  background-color: yellow;
+  color: black;
+  margin-top: 50px;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-bottom: 50px;
+}
+  
